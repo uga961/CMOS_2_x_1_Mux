@@ -114,11 +114,7 @@ endmodule
 
   ![2_X_1_Mux_Test](https://github.com/user-attachments/assets/83cec5a0-8271-48c8-a838-b3a6ef8903d4)
 
-- **MUX Test Setup**
-
-  ![2_X_1_Mux_Test](https://github.com/user-attachments/assets/a8bbfbd8-f6d0-4626-8170-032e01068cd4)
-
-- **MUX Test Setup**
+- **MUX ADE**
 
   ![2_X_1_Mux_ADE](https://github.com/user-attachments/assets/426ad35b-88af-4503-94a8-540ec68f9c11)
 
